@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eleanor-sims
 - 👀 I’m interested in data science, music and social justice
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently studying for the data science nanodegree with Udacity
 - 📫 How to reach me: https://www.linkedin.com/in/eleanor-sims/
 
 <!---
