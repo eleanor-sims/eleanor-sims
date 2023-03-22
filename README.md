@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eleanor-sims
-- 👀 I’m interested in data science, data engineering and promoting careers in STEM 
+- 👀 I'm a data scientist at NatWest and outside of work my biggest interest is music
 - 🌱 I’m currently studying for the data science nanodegree with Udacity
 - 📫 How to reach me: https://www.linkedin.com/in/eleanor-sims/
 
