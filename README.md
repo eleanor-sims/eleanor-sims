@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eleanor-sims
-- 👀 I'm a data scientist at NatWest 
-- 🎤 Outside of work my passion is writing and arranging music
-- 🌱 I’ve just finished the data science nanodegree with Udacity
+- 🛫 I'm a data scientist at Skyscanner 
+- 🎤 Outside of work my passions are music (arranging and performing) and crafting
+- 🌱 I’m currently learning PySpark
 - 📫 How to reach me: https://www.linkedin.com/in/eleanor-sims/
 
 <!---
