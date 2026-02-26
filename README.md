@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eleanor-sims
 - 🛫 I'm a data scientist at Skyscanner 
 - 🎤 Outside of work my passions are music (arranging and performing) and crafting
-- 🌱 I’m currently learning PySpark
+- 🌱 I’m currently learning about Neural Networks
 - 📫 How to reach me: https://www.linkedin.com/in/eleanor-sims/
 
 <!---
